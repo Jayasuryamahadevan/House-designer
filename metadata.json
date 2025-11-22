@@ -1,0 +1,5 @@
+{
+  "name": "Immersive Home Designer",
+  "description": "A 3D interior design tool allowing users to upload house models, apply vendor-specific materials (Tiles, Paint), and get AI design advice.",
+  "requestFramePermissions": []
+}
